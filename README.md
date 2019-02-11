@@ -16,7 +16,7 @@
 
 ## 2. 完成项目流程
 
-1. 配置环境，使用 `envirnment.yml` 文件配置名为 `robot-env` 的 conda 环境，具体而言，你只需转到当前的目录，在命令行/终端中运行如下代码，稍作等待即可。
+1. 配置环境，使用 `environment.yml` 文件配置名为 `robot-env` 的 conda 环境，具体而言，你只需转到当前的目录，在命令行/终端中运行如下代码，稍作等待即可。
 ```
 conda env create -f environment.yml
 ```
