@@ -25,3 +25,8 @@ conda env create -f environment.yml
 2. 阅读 `robot_maze.ipynb` 中的指导完成项目，并根据指导修改对应的代码，生成、观察结果。
 3. 导出代码与报告，上传文件，提交审阅并优化。
 
+
+ # Archival Note 
+ This repository is deprecated; therefore, we are going to archive it. However, learners will be able to fork it to their personal Github account but cannot submit PRs to this repository. If you have any issues or suggestions to make, feel free to: 
+- Utilize the https://knowledge.udacity.com/ forum to seek help on content-specific issues. 
+- Submit a support ticket along with the link to your forked repository if (learners are) blocked for other reasons. Here are the links for the [retail consumers](https://udacity.zendesk.com/hc/en-us/requests/new) and [enterprise learners](https://udacityenterprise.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000279131).
